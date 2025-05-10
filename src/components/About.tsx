@@ -2,6 +2,7 @@ import React, { useRef } from 'react';
 import { motion, useScroll, useTransform } from 'framer-motion';
 import { Github, Twitter, Linkedin, Mail, Download } from 'lucide-react';
 
+
 const About: React.FC = () => {
   const containerRef = useRef<HTMLDivElement>(null);
   const { scrollYProgress } = useScroll({
@@ -46,7 +47,7 @@ const About: React.FC = () => {
             <div className="relative">
                 <div className="w-full aspect-square rounded-2xl overflow-hidden mb-6">
                 <img 
-                  src="/src/imges/sidd2.png" 
+                  src="public/images/sidd2.png" 
                   alt="Portrait" 
                   className="w-full h-full object-cover"
                 />
