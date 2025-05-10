@@ -8,7 +8,7 @@ const projects = [
     title: 'Ecommerce website',
     description: 'A futuristic brain-computer interface for direct neural communication.',
     tech: ['HTML', 'Css', 'php', ],
-    image: '/src/images/e-com.png',
+    image: '../images/e-com.png',
     link: '#',
   },
   {
@@ -16,7 +16,7 @@ const projects = [
     title: 'Hostel Management Software',
     description: 'Interactive visualization of quantum computing principles and algorithms.',
     tech: ['python', 'TKinter ', 'D3.js', 'GLSL'],
-    image: 'src/imges/Screenshot 2025-05-10 104252.png',
+    image: '../images/Screenshot 2025-05-10 104252.png',
     link: '#',
   },
   {
@@ -24,7 +24,7 @@ const projects = [
     title: 'IGRIS AI',
     description: 'An advanced AI chatbot powered by machine learning, featuring natural language processing and real-time responses for enhanced user interaction.',
     tech: ['React + Vite', 'Node.js', 'Natural Language Processing', 'API Integration'],
-    image: 'src/imges/Screenshot 2025-05-10 104521.png',
+    image: '../images/Screenshot 2025-05-10 104521.png',
     link: '#',
   },
   
