@@ -46,7 +46,7 @@ const About: React.FC = () => {
             <div className="relative">
                 <div className="w-full aspect-square rounded-2xl overflow-hidden mb-6">
                 <img 
-                  src="/src/imges/sidd3.png" 
+                  src="/src/imges/sidd2.png" 
                   alt="Portrait" 
                   className="w-full h-full object-cover"
                 />
