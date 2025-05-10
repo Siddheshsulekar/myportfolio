@@ -76,7 +76,7 @@ const About: React.FC = () => {
             viewport={{ once: true, margin: "-100px" }}
           >
             <h3 className="text-2xl font-bold mb-6">
-              Hi, I'm <span className="text-neon-blue">Alex Chen</span>
+              Hi, I'm <span className="text-neon-blue">Siddhesh Sulekar</span>
             </h3>
             
             <div className="space-y-4 text-white/80 mb-8">
