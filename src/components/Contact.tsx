@@ -164,7 +164,7 @@ const Contact: React.FC = () => {
                   </div>
                   <div className="ml-4">
                     <h4 className="text-sm text-white/70 mb-1">Email</h4>
-                    <p className="font-medium">contact@alexchen.dev</p>
+                    <p className="font-medium">siddheshsulekar4@gmail.com</p>
                   </div>
                 </div>
                 
@@ -174,7 +174,7 @@ const Contact: React.FC = () => {
                   </div>
                   <div className="ml-4">
                     <h4 className="text-sm text-white/70 mb-1">Phone</h4>
-                    <p className="font-medium">+1 (415) 555-1234</p>
+                    <p className="font-medium">8468823037</p>
                   </div>
                 </div>
                 
@@ -184,7 +184,7 @@ const Contact: React.FC = () => {
                   </div>
                   <div className="ml-4">
                     <h4 className="text-sm text-white/70 mb-1">Location</h4>
-                    <p className="font-medium">San Francisco, California</p>
+                    <p className="font-medium">ganesh park,phulewadi,kolhapur,maharashtra</p>
                   </div>
                 </div>
               </div>
